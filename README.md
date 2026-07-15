@@ -27,9 +27,11 @@ The motors perform a sweep motion for 2 seconds. After that, all servo motors mo
 
 ![Four Servo Motors Circuit](Circuit connection.png)
 
-## Simulation Video
+## Simulation
 
-[▶ Watch the Servo Motors Simulation](simulation-video.mp4)
+![Four Servo Motors Simulation](simulation.gif)
+
+[▶ Watch the full simulation video](simulation-video.mp4)
 
 ## How It Works
 
